@@ -1,6 +1,7 @@
 Content aware music score binarization
 Reproducible Research
 email: telmotpinto@gmail.com; ana.rebelo@gmail.com
+Paper: Pinto T, Rebelo A, Giraldi G, Cardoso JS (2011) Music score binarization based on domain knowledge. In: Pattern recognition and image analysis. Lecture notes in computer science, vol 6669. Springer, Heidelberg, pp 700–708
 
 
 The root RR folder has two main folders: code and images.
